@@ -6,27 +6,19 @@
 
 ## It is based on the Segment Anything Model (SAM) and focuses on failure case analysis and practical improvement.
 
-## 
-
-## \## Demo
+## <h2>Demo</h2>
 
 ## 
 
-## \### Original Input Image
+## <h3>Original Input Image</h3>
+
+## <img src="assets/lexus\_overlay.png" width="700">
 
 ## 
 
-## !\[Original image](assets/lexus\_overlay.png)
+## <h3>Improved Web UI</h3>
 
-## 
-
-## \### Improved Web UI
-
-## 
-
-## !\[UI screenshot](assets/ui.png)
-
-## 
+## <img src="assets/ui.png" width="700">
 
 ## \## Main Improvements
 
