@@ -4,12 +4,7 @@ This project is for the Visual Media assignment.
 
 It is based on the Segment Anything Model (SAM) and focuses on failure case analysis and practical improvement.
 
-<h2>Demo</h2>
-
-<h3>Original Input Image</h3>
-
-<img src="assets/lexus\_overlay.png" width="700">
-
+![Demo Result](assets/lexus\_overlay.png)
 <h3>Improved Web UI</h3>
 
 <img src="assets/ui.png" width="700">
